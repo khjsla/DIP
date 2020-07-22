@@ -1,0 +1,5 @@
+﻿  moc firstQt.h
+  firstQt.cpp
+  main.cpp
+  moc_firstQt.cpp
+  firstQt.vcxproj -> C:\Users\khj\source\repos\firstQt\x64\Debug\firstQt.exe
